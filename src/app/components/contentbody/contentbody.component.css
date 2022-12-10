@@ -1,0 +1,21 @@
+.fontcontent{
+    font-family: "Poppins",sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600 ;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none; 
+    text-align: center;
+}
+
+.img-fluid:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.08);
+    transform: scale(1.2); 
+}
+.setsize_img{
+    height: 250px;
+}

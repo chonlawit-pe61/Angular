@@ -1,0 +1,23 @@
+
+.mat-toolbar {
+    background: white;
+    color: rgb(4, 4, 4);
+    border-bottom: 1px solid rgb(237, 237, 237);
+ }
+ .example-spacer {
+    flex: 1 1 auto;
+  }
+.icon-display {
+    transform: scale(1.5);
+ }
+.shoping-card-container{
+    position: relative;
+}
+.section{
+    top: -30px;
+    left: -15px;
+}
+.mat-sidenav-test{
+    width: 600px;
+    height: 100%;
+}
